@@ -80,23 +80,18 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-profile-trophy.vercel.app/?username=hussainabdillah&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="hussainabdillah's github stats" /></a> 
 </p>
 
-# test
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
-  <div style="flex: 1; min-width: 300px;">
-    
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technology/Framework]**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+---
 
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussainabdillah&hide=shaderlab,c%23,lua,procfile&theme=react&layout=compact&langs_count=8&hide_border=true&size_weight=0.5&count_weight=0.5" alt="hussainabdillah's github stats" />
-    </a>
-  </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hussainkelarno&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  
+**Thanks for visiting!**
+
+*Don't forget to ⭐ some repositories if you find them interesting!*
+
 </div>
 
 <!---
