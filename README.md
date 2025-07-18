@@ -1,21 +1,25 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello there, I'm Hussain Abdillah Tugas Kelarno
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
-  <div style="flex: 1; min-width: 300px;">
-    
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technology/Framework]**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+ <div style="flex: 1; min-width: 300px;">
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussainabdillah&hide=shaderlab,c%23,lua,procfile&theme=react&layout=compact&langs_count=8&hide_border=true&size_weight=0.5&count_weight=0.5" alt="hussainabdillah's github stats" />
+   </a>
+ </div>
+ <div style="flex: 1; min-width: 100px">
+   <p>I'm an Informatics student at Muhammadiyah University of Surakarta with a passion for web development and software engineering. Constantly curious and eager to learn, I enjoy exploring the ever-evolving world of technology. Here, you'll find my projects and contributions that reflect my enthusiasm for creating innovative and user-centric solutions. Let's collaborate and build something amazing together! 🚀</p>
+ </div>
+ <div align="center">
+  <p>🌐 Connect with me! </p>
+ </div>
+ <div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hussainabdillahtugaskelarno)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hussainnkelarno)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hussainkelarno)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussainkelarno@gmail.com)
 
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussainabdillah&hide=shaderlab,c%23,lua,procfile&theme=react&layout=compact&langs_count=8&hide_border=true&size_weight=0.5&count_weight=0.5" alt="hussainabdillah's github stats" />
-    </a>
-  </div>
+</div>
 </div>
 
 
