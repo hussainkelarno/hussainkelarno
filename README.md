@@ -2,11 +2,7 @@
 
 I'm an Informatics student at Muhammadiyah University of Surakarta with a passion for web development and software engineering. Constantly curious and eager to learn, I enjoy exploring the ever-evolving world of technology. Here, you'll find my projects and contributions that reflect my enthusiasm for creating innovative and user-centric solutions. Let's collaborate and build something amazing together! 🚀
 
-# 💻 Tech that I use 
-
-
-
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
   
@@ -57,12 +53,13 @@ I'm an Informatics student at Muhammadiyah University of Surakarta with a passio
 
 
 # 📊 GitHub Stats 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainabdillah&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="hussainabdillah's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainabdillah&theme=react&hide_border=true" /></a>
-| ------------- | ------------- |
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainabdillah&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="hussainabdillah's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainabdillah&theme=react&hide_border=true" /></a>
+</div>
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hussainabdillah&layout=compact&hide=shaderlab,c%23,lua,procfile&langs_count=8&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="hussainabdillah's github stats" /></a> 
-</p>
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hussainabdillah&layout=compact&hide=shaderlab,c%23,lua,procfile&langs_count=8&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="hussainabdillah's github stats" /></a>
+</div>
 
 
 # 🏆 GitHub Trophies 
