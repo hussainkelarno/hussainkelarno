@@ -3,7 +3,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
  <div style="flex: 1; min-width: 300px;">
    <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hussainabdillah&layout=compact&hide=shaderlab,c%23,lua,procfile&langs_count=8&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="hussainabdillah's github stats" />
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussainabdillah&hide=shaderlab,c%23,lua,procfile&theme=vue-dark&layout=compact&langs_count=8" alt="hussainabdillah's github stats" />
    </a>
  </div>
  <div style="flex: 1; min-width: 300px">
