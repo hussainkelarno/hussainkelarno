@@ -6,10 +6,11 @@
      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussainabdillah&hide=shaderlab,c%23,lua,procfile&theme=react&layout=compact&langs_count=8&hide_border=true&size_weight=0.5&count_weight=0.5" alt="hussainabdillah's github stats" />
    </a>
  </div>
- <div style="flex: 1; min-width: 300px">
+ <div style="flex: 1; min-width: 100px">
    <p>I'm an Informatics student at Muhammadiyah University of Surakarta with a passion for web development and software engineering. Constantly curious and eager to learn, I enjoy exploring the ever-evolving world of technology. Here, you'll find my projects and contributions that reflect my enthusiasm for creating innovative and user-centric solutions. Let's collaborate and build something amazing together! 🚀</p>
  </div>
 </div>
+<br>
 <br>
 <br>
 
