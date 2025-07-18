@@ -53,7 +53,9 @@ I'm an Informatics student at Muhammadiyah University of Surakarta with a passio
 
 
 # 📊 GitHub Stats 
+<div style="display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 15px;">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainabdillah&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="hussainabdillah's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainabdillah&theme=react&hide_border=true" /></a>
+</div>
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hussainabdillah&layout=compact&hide=shaderlab,c%23,lua,procfile&langs_count=8&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="hussainabdillah's github stats" /></a>
