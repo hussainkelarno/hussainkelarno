@@ -19,6 +19,7 @@
   </div>
 </div>
 <br>
+<br>
 
 # 🛠️ Tech Stack
 
@@ -69,8 +70,9 @@
 </div>
 
 # 📊 GitHub Stats 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainabdillah&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="hussainabdillah's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainabdillah&theme=react&hide_border=true" /></a>
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainabdillah&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="hussainabdillah's github stats" />
+</a>
 
 # 🏆 GitHub Trophies 
 <p align="center">
@@ -90,6 +92,9 @@
 
 
 <!---
+|  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainabdillah&theme=react&hide_border=true" /></a>
+| ------------- | ------------- |
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
  <div style="flex: 1; min-width: 300px;">
    <a href="https://github.com/anuraghazra/github-readme-stats">
